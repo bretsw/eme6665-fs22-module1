@@ -37,7 +37,7 @@ class: inverse, center, middle
 
 class: inverse, center, middle
 
-# `r fa("fas fa-door-open", fill = "#fff")` <br><br> Welcome to EME6356!
+# `r fa("fas fa-door-open", fill = "#fff")` <br><br> Welcome to EME6665!
 
 ---
 
@@ -193,7 +193,7 @@ include_graphics("img/build.jpg")
 include_graphics("img/build.jpg")
 ```
 
-- **Analytics Assignments** (70%)
+- **Assignments** (70%)
 
 --
 
